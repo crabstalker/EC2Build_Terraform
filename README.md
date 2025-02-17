@@ -2,8 +2,6 @@
 AWS project to build EC2 instance using Terraform
 
 
-# EC2Build_Terraform
-
 ## Overview
 This project uses Terraform to build and manage an EC2 instance on AWS. Terraform is an infrastructure as code tool that makes it easy to provision and manage cloud resources.
 
